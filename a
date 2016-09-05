@@ -1,3 +1,6 @@
-hello world
 change
+<<<<<<< HEAD
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+=======
+xxx
+>>>>>>> d0fd7788f8140f795a48218dbb7d7db921eb0401
